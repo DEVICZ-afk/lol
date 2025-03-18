@@ -1,15 +1,3 @@
-rok = 2025
-text = "Veselé Velikonoce"
-cislo = 18361936
-
-print(f"Ahoj, {text} {rok}.")
-
-print(f"{cislo}")
-
-print(f"{text:.6}")
-
-print(f"{cislo:.3f}")
-
-hodnota = 155
-print(f"{hodnota:b}")
-print(f"{hodnota:x}")
+jmeno = input("Zadejte své jméno: ")
+vek = input("Zadejte svůj věk: ")
+print(f"Ahoj, jmenuji se {jmeno} a je mi {vek} let.")
