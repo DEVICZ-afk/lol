@@ -2,7 +2,6 @@
 - [![image](https://github.com/user-attachments/assets/0148b309-c52b-4fc2-a3b5-8898ee0e7093)](#podnadpis)
 - [kod](#kod)
 
-- ## Kod
 - Tento kod vám vypíše Hello po spuštění programu
 
   ```python
